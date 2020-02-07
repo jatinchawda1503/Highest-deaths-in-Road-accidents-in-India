@@ -1,0 +1,38 @@
+"Sl. No.",States/UTs,"State/UT-Wise Total Number of Persons Killed in Road Accidents during - 2013","State/UT-Wise Total Number of Persons Killed in Road Accidents during - 2014","State/UT-Wise Total Number of Persons Killed in Road Accidents during - 2015","State/UT-Wise Total Number of Persons Killed in Road Accidents during - 2016","Share of States/UTs in Total Number of Persons Killed in Road Accidents - 2013","Share of States/UTs in Total Number of Persons Killed in Road Accidents - 2014","Share of States/UTs in Total Number of Persons Killed in Road Accidents - 2015","Share of States/UTs in Total Number of Persons Killed in Road Accidents - 2016","Total Number of Persons Killed in Road Accidents Per Lakh Population - 2013","Total Number of Persons Killed in Road Accidents Per Lakh Population - 2014","Total Number of Persons Killed in Road Accidents Per Lakh Population - 2015","Total Number of Persons Killed in Road Accidents Per Lakh Population - 2016","Total Number of Persons Killed in Road Accidents per 10,000 Vehicles - 2013","Total Number of Persons Killed in Road Accidents per 10,000 Vehicles - 2014","Total Number of Persons Killed in Road Accidents per 10,000 Vehicles - 2015","Total Number of Persons Killed in Road Accidents per 10,000 Km of Roads - 2013","Total Number of Persons Killed in Road Accidents per 10,000 Km of Roads - 2014","Total Number of Persons Killed in Road Accidents per 10,000 Km of Roads - 2015"
+1,"Andhra Pradesh",14171,7908,8297,8541,10.3,5.7,5.7,5.7,16.4,9.1,9.5,9.7,11.2,11.3,10.5,541.6,444,463.5
+2,"Arunachal Pradesh",143,119,127,149,0.1,0.1,0.1,0.1,11.3,9.3,9.8,11.3,9.5,7.9,8.4,50.9,48.6,50.1
+3,Assam,2441,2522,2397,2572,1.8,1.8,1.6,1.7,7.8,8,7.5,7.9,13,11.4,9.6,84.7,80.4,73.4
+4,Bihar,5061,4913,5421,4901,3.7,3.5,3.7,3.3,5,4.8,5.3,4.7,14,11.8,11.3,256.6,234.2,263.1
+5,Chhattisgarh,3477,4022,4082,3908,2.5,2.9,2.8,2.6,14,15.9,16,15.1,10.1,10.4,9.5,389.6,425.3,418.5
+6,Goa,266,290,311,336,0.2,0.2,0.2,0.2,14.2,15.1,15.9,17,2.8,2.9,2.9,229.3,218.6,212.7
+7,Gujarat,7613,7955,8119,8136,5.5,5.7,5.6,5.4,12.6,13,13.1,13,4.8,4.7,4.3,459.6,444.3,445.4
+8,Haryana,4517,4483,4879,5024,3.3,3.2,3.3,3.3,17.2,16.8,18,18.3,6.8,6.2,6.2,1063.4,1050.3,1054.1
+9,"Himachal Pradesh",1054,1199,1096,1271,0.8,0.9,0.8,0.8,15.2,17.2,15.6,17.9,12,12.3,10.2,198,220.5,197.1
+10,"Jammu & Kashmir",990,992,917,958,0.7,0.7,0.6,0.6,8.2,8.2,7.5,7.7,9.7,8.8,7.4,222,253.7,234.6
+11,Jharkhand,2706,2628,2893,3027,2,1.9,2,2,8.4,8,8.7,9,8.1,15.3,14,730.1,637,677.4
+12,Karnataka,10046,10452,10856,11133,7.3,7.5,7.4,7.4,16.6,17.1,17.6,17.8,8.3,7.8,7.3,328.9,333.7,337.3
+13,Kerala,4258,4049,4196,4287,3.1,2.9,2.9,2.8,12.2,11.5,11.8,12,5.4,4.6,4.3,230.1,209.3,215.3
+14,"Madhya Pradesh",8588,8569,9314,9646,6.2,6.1,6.4,6.4,11.5,11.3,12.1,12.4,9.8,8.8,8.4,375.3,306,322.4
+15,Maharashtra,13029,12803,13212,12935,9.5,9.2,9,8.6,11.3,10.9,11.1,10.8,6.1,5.5,5.2,221,210.3,217.3
+16,Manipur,165,168,139,81,0.1,0.1,0.1,0.1,6.6,6.6,5.4,3.1,5.6,4.3,4.5,79.2,77.6,57.3
+17,Meghalaya,130,141,183,150,0.1,0.1,0.1,0.1,4.8,5.2,6.7,5.4,5.9,5.7,6.9,105.5,106.3,136.9
+18,Mizoram,97,103,72,70,0.1,0.1,0,0,9.4,9.9,6.9,6.6,8,7.5,4.8,88.7,105.1,73.2
+19,Nagaland,30,81,30,46,0,0.1,0,0,1.3,3.5,1.3,1.9,1,2.5,0.9,7.8,22.1,8.1
+20,Odisha,4062,3931,4303,4463,3,2.8,2.9,3,9.8,9.4,10.2,10.5,9.6,8.4,8.2,146.3,138.8,151.7
+21,Punjab,4588,4621,4893,5077,3.3,3.3,3.3,3.4,16.2,16.2,17,17.4,6.5,7.4,7.8,466.1,443.6,464.4
+22,Rajasthan,9724,10289,10510,10465,7.1,7.4,7.2,6.9,13.9,14.5,14.6,14.3,9.7,9.2,8.5,430,426.5,423.5
+23,Sikkim,68,59,70,85,0,0,0,0.1,10.9,9.3,10.9,13.1,18.7,14.9,16.2,103.5,90.4,94
+24,"Tamil Nadu",15563,15190,15642,17218,11.3,10.9,10.7,11.4,22.8,22.1,22.7,24.8,8.1,7.3,6.9,653.9,597.5,599.1
+25,Telangana,NA,6906,7110,7219,NA,4.9,4.9,4.8,NA,NA,NA,NA,NA,9.8,9.1,NA,748.9,709.2
+26,Tripura,226,188,158,173,0.2,0.1,0.1,0.1,6.1,5,4.2,4.5,9.2,7.3,5.6,72.9,44.9,42.3
+27,Uttarakhand,766,878,913,962,0.6,0.6,0.6,0.6,7.5,8.5,8.7,9,5.2,5.4,5,130.5,145.3,145
+28,"Uttar Pradesh",16004,16287,17666,19320,11.6,11.7,12.1,12.8,7.7,7.7,8.2,8.9,9.4,8.5,8.2,367.1,410,425.3
+29,"West Bengal",5504,5875,6234,6544,4,4.2,4.3,4.3,6,6.4,6.7,7,12.3,8.7,8.4,177.7,187.3,210.6
+30,"Andaman & Nicobar Islands",40,23,23,17,0,0,0,0,7.7,4.3,4.2,3.1,4.7,2.5,2.2,288.2,174.5,170.1
+31,Chandigarh,117,131,129,151,0.1,0.1,0.1,0.1,7.4,7.9,7.5,8.5,1.1,2.1,1.9,587.1,455,439.5
+32,"Dadra & Nagar Haveli",49,59,42,46,0,0,0,0,12.7,14.7,10.1,10.9,5.2,5.7,3.8,604.9,701.5,485.5
+33,"Daman & Diu",31,15,42,38,0,0,0,0,10.6,4.9,13.2,11.5,3.4,1.6,4.2,1631.6,295.9,804.6
+34,Delhi,1820,1671,1622,1591,1.3,1.2,1.1,1.1,9.3,8.3,7.8,7.5,2.3,2,1.8,568.8,522.3,505.8
+35,Lakshadweep,0,0,0,1,0,0,0,0,0,0,0,1.2,0,0,0,0,0,0
+36,Puducherry,228,151,235,244,0.2,0.1,0.2,0.2,15.1,9.6,14.5,14.6,3.3,2,2.9,788.9,500,764.9
+Total,Total,137572,139671,146133,150785,100,100,100,100,11.2,11.3,11.7,11.9,7.6,7.3,7,317.6,310.2,319.6

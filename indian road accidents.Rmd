@@ -1,0 +1,59 @@
+---
+title: "Statistics of Persons Killed in Road Accidents in India"
+author: "Jatin Chawda"
+date: "2/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r echo=TRUE}
+library(plotly)
+library(dplyr)
+library(ggplot2)
+```
+
+
+```{r echo=TRUE}
+data <- read.csv("indian_road_accidents.csv")
+```
+
+```{r echo=TRUE}
+#Replcing na values to zero
+##Its True that Telangana was not formed as state on 2013 so we will consider it as 0 deaths
+data[is.na(data)] <- 0
+
+
+Total.Killed <- data.frame(data[37,])
+
+data <- data[-c(37),]
+```
+
+```{r echo=TRUE}
+States <- data$States.UTs
+
+States <- factor(States)
+
+data_2013 <- data$State.UT.Wise.Total.Number.of.Persons.Killed.in.Road.Accidents.during...2013
+data_2014 <- data$State.UT.Wise.Total.Number.of.Persons.Killed.in.Road.Accidents.during...2014
+data_2015 <-  data$State.UT.Wise.Total.Number.of.Persons.Killed.in.Road.Accidents.during...2015
+data_2016 <- data$State.UT.Wise.Total.Number.of.Persons.Killed.in.Road.Accidents.during...2016
+
+deaths <- c(data_2013,data_2014,data_2015,data_2016)
+
+type <- c(2013,2014,2015,2016)
+
+no_total_deaths <- data.frame(States,deaths,type)
+
+
+```
+
+```{r echo=TRUE}
+data_plot <- ggplot(no_total_deaths,aes(States,deaths)) + geom_bar(stat = "identity",aes(fill = type),position = "dodge") + theme(axis.text.x = element_text(angle = 90, hjust = 1)) + ggtitle("Highest deaths in Road Accidents in India From 2013 to 2016")
+
+ggplotly(data_plot, tooltip=c("text"))
+
+```
